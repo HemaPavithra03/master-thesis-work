@@ -1,0 +1,53 @@
+    flow ID
+    Number of packets                               : side 1, side 2, both sides
+    Number of packets with data                     : side 1, side 2, both sides
+    Number of packets with ACK flag                 : side 1, side 2, both sides
+    Number of packets with URG flag                 : side 1, side 2, both sides
+    Number of packets with PSH flag                 : side 1, side 2, both sides
+    Number of packets with RST flag                 : side 1, side 2, both sides
+    Number of packets with SYN flag                 : side 1, side 2, both sides
+    Number of packets with FIN flag                 : side 1, side 2, both sides
+    Number of pure ACK packets                      : side 1, side 2, both sides
+    Inter-arrival time - minimum                    : side 1, side 2, both sides
+    Inter-arrival time - maximum                    : side 1, side 2, both sides
+    Inter-arrival time - mean                       : side 1, side 2, both sides
+    Inter-arrival time - median                     : side 1, side 2, both sides
+    Inter-arrival time - variance                   : side 1, side 2, both sides
+    Inter-arrival time - 1st quartile               : side 1, side 2, both sides
+    Inter-arrival time - 3rd quartile               : side 1, side 2, both sides
+    Time spent idle                                 : side 1, side 2, both sides
+    Percentage of time spent idle                   : side 1, side 2, both sides
+    Time spent in bulk mode                         : side 1, side 2, both sides
+    Percentage of time spent in bulk mode           : side 1, side 2, both sides
+    IP packet length - minimum                      : side 1, side 2, both sides
+    IP packet length - maximum                      : side 1, side 2, both sides
+    IP packet length - mean                         : side 1, side 2, both sides
+    IP packet length - median                       : side 1, side 2, both sides
+    IP packet length - variance                     : side 1, side 2, both sides
+    IP packet length - 1st quartile                 : side 1, side 2, both sides
+    IP packet length - 3rd quartile                 : side 1, side 2, both sides
+    Control bytes length - minimum                  : side 1, side 2, both sides
+    Control bytes length - maximum                  : side 1, side 2, both sides
+    Control bytes length - mean                     : side 1, side 2, both sides
+    Control bytes length - median                   : side 1, side 2, both sides
+    Control bytes length - variance                 : side 1, side 2, both sides
+    Control bytes length - 1st quartile             : side 1, side 2, both sides
+    Control bytes length - 3rd quartile             : side 1, side 2, both sides
+    SACK permitted                                  : side 1, side 2, both sides
+    Number of packets with SACK info                : side 1, side 2, both sides
+    Number of packets with duplicate SACK blocks    : side 1, side 2, both sides
+    Window scale requested                          : side 1, side 2, both sides
+    Window scale factor                             : side 1, side 2, both sides
+    Window size - minimum                           : side 1, side 2, both sides
+    Window size - maximum                           : side 1, side 2, both sides
+    Window size - mean                              : side 1, side 2, both sides
+    Timestamp requested                             : side 1, side 2, both sides
+    Maximum segment size requested                  : side 1, side 2, both sides
+    Segment size - minimum                          : side 1, side 2, both sides
+    Segment size - maximum                          : side 1, side 2, both sides
+    Segment size - mean                             : side 1, side 2, both sides
+    Number of zero window advertised                : side 1, side 2, both sides
+    Number of window probe packets                  : side 1, side 2, both sides
+    Number of unique bytes                          : side 1, side 2, both sides
+    Average throughput (bytes/s)                    : side 1, side 2, both sides
+    Number of RTT samples                           : side 1, side 2, both sides
